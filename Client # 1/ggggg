@@ -1,0 +1,79 @@
+
+<section id="secb">
+
+<div>
+  <h1 class="friday">Fridays Fifteen</h1>
+  <p class="parag">Fridays Fifteen ist dein Format: Hier kannst Du ganz einfach Deinen Slot für eine Zoom-<br>Video-Konferenz mit uns selbst buchen. Wir besprechen mit Dir alles rund um die Themen<br> Start-Ups und Venture Capital. Du suchst auch einen Investor? Vielleicht sind wir der<br> Richtige für Dich. Pitche uns Deine Idee und wir besprechen alles weitere. Wir freuen uns<br> auf das Kennenlernen!</p>
+<button class="btn1" type="button" name="button">  <i class='far fa-comment-alt'> </i>   Termin vereinbaren</button>
+</div>
+
+</section>
+
+<section id="secc">
+
+<div class="about">
+
+    <h1 class="aboutus">About us</h1>
+  <p>Wir sind neoteq ventures. Wir helfen Gründerteams beim Aufbau von Unternehmen, die Branchen verändern. Wir unterstützen gerne von Anfang an mit Kapital und unserem Know-How und sind dabei der erste institutionelle Investor für Start-Ups.<br><br> Die Digitalisierung verändert ganze Branchen. Der damit verbundene Wandel eröffnet unzählige Chancen für spannende Geschäftsmodelle und Unternehmen. Hier sind wir als neoteq ventures positioniert. Wir suchen Start-Ups mit einem klaren Tech-Fokus und dem Potential, Marktführer zu werden. Dabei stehen die Gründer für uns immer im Mittelpunkt.<br><br> Wir investieren deutschlandweit und setzen einen Schwerpunkt bei unseren Investmentaktivitäten im Rheinland.<br><br> Wir wissen, dass Start-Ups Zeit, Geld und Unterstützung brauchen. In allen Bereichen helfen wir gerne mit unserer Erfahrung und Expertise.<br><br> Du hast eine neue Idee? Dann nimm gerne Kontakt mit uns auf.</p>
+<button class="btn2" type="button" name="button"> <i class='fas fa-arrow-right'style='text-align: center'></i>   kontokt </button>
+</div>
+</section>
+<section id="secd">
+
+<h1 class="head">Team</h1>
+<div class="column1">
+   <img src="pic1.png" alt="image" style="width:100%">
+   <div>
+     <h1>BJ Park</h1>
+     <p>B.J. ist Founding Partner von neoteq ventures. Er arbeitet schon seit 2005 erfolgreich mit Start-Ups zusammen. Er kennt die entscheidenden Tipps und Tricks, die den Aufbau eines jungen Unternehmens vereinfachen. Mit seiner Ausdauer, die er auch als Triathlet sehr gut zu nutzen weiß, ist er in der Lage, Berge zu versetzen, um am Ende erfolgreich zu sein. B.J. ist verheiratet, hat zwei Kinder, ist gebürtig aus Frankfurt und lebt seit über 20 Jahren in Köln.</p>
+     <button class="button"> <i class='fas fa-arrow-right'></i> linkedin </button>
+   </div>
+
+ </div>
+
+ <div class="column2">
+
+   <img src="pic2.png" alt="image" style="width:100%" >
+   <div>
+     <h1>Simon Schneider</h1>
+     <p>Simon ist Founding Partner von neoteq ventures und seit über 15 Jahren sowohl in Deutschland als auch international als VC-Investor unterwegs. Seine Investmentphilosophie ist geprägt von der Überzeugung, dass man am Ende nur als Team erfolgreich sein kann. Entsprechend eng arbeitet er mit seinen Unternehmen zusammen, um die großen Ziele zu verwirklichen. Simon ist verheiratet, hat drei Kinder und lebt in Bonn.</p>
+    <button class="button"> <i class='fas fa-arrow-right'></i>  linkedin </button>
+   </div>
+
+ </div>
+
+ <div class="column3">
+   <img src="pic3.png" alt="image" style="width:100%">
+   <div>
+     <h1>Jan Jeske</h1>
+     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum molli.</p>
+    <button class="button"> <i class='fas fa-arrow-right'></i> linkedin </button>
+   </div>
+
+ </div>
+</section>
+
+<section id="sece">
+  <h1 class="Latest">Latest news</h1>
+  <button class="btn6" type="button" name="button"><i class='fas fa-arrow-right'></i>  Alle News</button>
+  <div class="col1">
+    <img src="pic4.png" alt="">
+    <div>
+      <h1>Eine News</h1>
+      <p>Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc.</p>
+      <button class="btn4"type="button" name="button"><i class='fas fa-arrow-right'></i>  Weiter lesen</button>
+    </div>
+
+  </div>
+
+  <div class="col2">
+    <img src="pic5.png" alt="">
+    <div>
+      <h1>Eine zweite News</h1>
+      <p>Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel.</p>
+      <button class="btn4"type="button" name="button"><i class='fas fa-arrow-right'></i>  Weiter lesen</button>
+    </div>
+
+  </div>
+</section>
+  </body>
